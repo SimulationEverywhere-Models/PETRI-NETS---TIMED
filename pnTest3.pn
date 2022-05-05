@@ -1,0 +1,11 @@
+
+Petri Net places: p1 p2 p3 
+Petri Net transitions: t1 
+
+(5,3,0)
+	|
+	|
+	t1
+	|
+	V
+(2,1,4)
